@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey, I am Shivam Patel
+Hey, I am Shivam Patel, a senior undergraduate student of computer engineering in Nirma University, India.
 
 ### More Information
 
