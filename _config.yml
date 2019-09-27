@@ -30,6 +30,7 @@ exclude:
 disqus:
 footer-links:
   dribbble:
+  future: true
   email:
   facebook:
   flickr:
